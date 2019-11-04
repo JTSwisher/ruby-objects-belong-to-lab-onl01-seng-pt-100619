@@ -1,8 +1,8 @@
 class Author 
   attr_accessor :name 
   
-  def initialize(name)
-    @name = name
-  end 
+ def inititalize(name)
+    @name = name 
+  end
 
 end 
